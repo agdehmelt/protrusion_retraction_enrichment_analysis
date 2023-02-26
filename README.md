@@ -1,5 +1,4 @@
-# protrusion_retraction_enrichment_analysis
-Protrusion/retraction signal enrichment and protrusion-retraction cycle duration analysis according to Nanda et al.
+# Protrusion/retraction signal enrichment and protrusion-retraction cycle duration analysis according to Nanda et al.
 
 Related to: 
 Nanda S., Calderon A., Duong T-T., Koch J., Sachan A., Xin X., Solouk D., Wu Y-W., Nalbant P., Dehmelt L., Crosstalk between Rac and Rho GTPase activity mediated by Arhgef11 and Arhgef12 coordinates cell protrusion-retraction cycles. 
