@@ -6,7 +6,7 @@ Nanda S., Calderon A., Duong T-T., Koch J., Sachan A., Xin X., Solouk D., Wu Y-W
 
 This repository contains the code to perform the Protrusion/retraction signal enrichment and protrusion-retraction cycle duration analysis described in Nanda et al. and an example dataset. 
 
-A detailed protocol for installing and running the analysis using the exmaple data set is provided here:
+A detailed protocol for installing and running the analysis using the example data set is provided here:
 
 https://github.com/agdehmelt/protrusion_retraction_enrichment_analysis/blob/main/Protocol_protrusion_retraction_signal_enrichment_230226.pdf
 
